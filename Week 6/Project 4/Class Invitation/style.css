@@ -1,0 +1,73 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-image: url(images/vicebackground1.jpg);
+	background-repeat: none;
+}
+#logo{
+	width: 600px;
+	
+}
+
+#center{
+	width: 600px;
+	margin: 0 auto;
+	
+}
+#city{
+	width: 1450px;
+	margin: 0 auto;
+}
+#city1{
+	width: 1450px;
+}
+
+#text{
+	width: 1000px;
+	position: relative;
+	left: 300px;
+	top: -90px;
+}
+#center2{
+	width: 600px
+	margin: 0 auto;
+}
+#date{
+	width:600px;
+	position: relative;
+	left: 450px;
+	top:-100px;
+}
+#venue{
+	width: 500px;
+	position: relative;
+	left: 450px;
+	top: -100px;
+}
+#center3{
+	width: 500px
+	margin: 0 auto;
+}
+
+#car{
+	width: 600px;
+	position: relative;
+	left: 500px;
+	top: -150px;
+
+}
+
+#attire{
+	width: 500px;
+	position: relative;
+	top: -300px;
+}
+#dior{
+	width: 300px;
+	position: relative;
+	top: -280px;
+}
+#center1{
+	width: 300px;
+	margin: 0 auto;
+}
